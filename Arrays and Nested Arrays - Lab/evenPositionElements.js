@@ -1,5 +1,5 @@
 function evenPositionElements(arr) {
-  let evenElements = arr.filter((element, i) => i % 2 == 0);
+  let evenElements = arr.filter((_, i) => i % 2 == 0);
   console.log(evenElements.join(' '));
 }
 
