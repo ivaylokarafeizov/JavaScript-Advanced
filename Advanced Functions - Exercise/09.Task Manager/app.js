@@ -31,7 +31,7 @@ function solve() {
     startBtn.textContent = 'Start';
     startBtn.addEventListener('click', () => inProgress());
 
-    let deleteBtn = document.createElement('button', 'Delete', 'red');
+    let deleteBtn = document.createElement('button');
     deleteBtn.classList.add('red');
     deleteBtn.textContent = 'Delete';
     deleteBtn.addEventListener('click', () => {
