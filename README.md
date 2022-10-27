@@ -84,4 +84,4 @@ In the "JS Advanced" course, you will get a deep knowledge of the JavaScript lan
 
 #### 🎓 Certificate:  
     
-Coming soon...
+<a href="https://softuni.bg/certificates/details/139098/4cf866a2" alt="Certificate" ><img src="https://softuni.bg/certificates/details/145393/89f78f69" align="left" width="450" height="600" title="JS Advanced Certificate Link"></a>
