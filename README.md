@@ -82,6 +82,6 @@ In the "JS Advanced" course, you will get a deep knowledge of the JavaScript lan
   <li>Functional programming
 </ul>  
 
-#### 🎓 Certificate:  
-    
-<a href="https://softuni.bg/certificates/details/139098/4cf866a2" alt="Certificate" ><img src="https://softuni.bg/certificates/details/145393/89f78f69" align="left" width="450" height="600" title="JS Advanced Certificate Link"></a>
+#### 🎓 Certificate:    
+
+<a href="https://softuni.bg/certificates/details/139098/4cf866a2" alt="Certificate" ><img src="https://user-images.githubusercontent.com/106147027/198331635-ce4bff0f-6b77-4dd9-bcd3-b8c0c2be6e73.png" align="left" width="450" height="600" title="JS Advanced Certificate Link"></a>
